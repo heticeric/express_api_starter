@@ -1,4 +1,4 @@
-# express_api_starter
+# Express API starter kit
 Kit de démarrage d'un serveur d'API comportant Express, Mongo, Mongoose 
 
 # Tests
