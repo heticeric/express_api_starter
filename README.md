@@ -1,7 +1,13 @@
 # Express API starter kit
 Kit de démarrage d'un serveur d'API comportant Express, Mongo, Mongoose 
 
-# Tests
+- Installez node.js
+- Installez mongodb
+- `$ npm install`
+
+# Tests avec Postman
+
+# Tests avec CURL
 
 curl -H 'content-type: application/json' -v -X GET http://localhost:3000/student 
 
